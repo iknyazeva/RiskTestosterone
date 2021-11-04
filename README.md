@@ -1,7 +1,6 @@
 # Project: Testosterone effect on Risk-Taking and Endowment  
 
 =======
-# Effects of Testosterone Administration on Endowment Effect and Risk-Taking under Positive and Negative Framing
 
 Accompanying code for the preprint ["A Bayesian Modelling Approach to Examine the Role of Testosterone Administration on the Endowment Effect and Risk-Taking"](https://psyarxiv.com/c37e4) 
 
