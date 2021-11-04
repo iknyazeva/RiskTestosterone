@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project: Testosterone effect on Risk-Taking and Endowment  
 Data analysis files used in Article :
 =======
@@ -13,4 +12,4 @@ Notebooks:
 1) Prospect theory parameters re-estimation: [Replication study](https://github.com/iknyazeva/RiskTestosterone/blob/master/Rieskamp_replication.ipynb)
 2) Endowment effect exploration: [Endowment modelling](https://github.com/iknyazeva/RiskTestosterone/blob/master/Endowment_v2.0.ipynb)
 3) Risk-taking under framing: [Risk Taking](https://github.com/iknyazeva/RiskTestosterone/blob/master/RiskTakingTestosteroneEffectsCovariates.ipynb)
->>>>>>> b94bb277f91434b65cd9cb8115dc009c59e5b945
+
