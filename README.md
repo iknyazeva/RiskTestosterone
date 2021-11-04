@@ -1,5 +1,5 @@
 # Project: Testosterone effect on Risk-Taking and Endowment  
-Data analysis files used in Article :
+
 =======
 # Effects of Testosterone Administration on Endowment Effect and Risk-Taking under Positive and Negative Framing
 
