@@ -12,9 +12,6 @@ Second, we investigate testosterone’s effect on loss aversion (endowment effec
 
 Notebooks:
 1) Prospect theory parameters re-estimation: [Replication study](https://github.com/iknyazeva/RiskTestosterone/blob/master/Rieskamp_replication.ipynb)
-[Replication study (html)](https://github.com/iknyazeva/RiskTestosterone/blob/master/Rieskamp_replication.html)
 2) Endowment effect exploration: [Endowment modelling](https://github.com/iknyazeva/RiskTestosterone/blob/master/Endowment_v2.0.ipynb)
-[Endowment modelling (html)](https://github.com/iknyazeva/RiskTestosterone/blob/master/Endowment_v2.0.html)
 3) Risk-taking under framing: [Risk Taking](https://github.com/iknyazeva/RiskTestosterone/blob/master/RiskTakingTestosteroneEffectsCovariates.ipynb)
-[Risk Taking (html)](https://github.com/iknyazeva/RiskTestosterone/blob/master/RiskTakingTestosteroneEffectsCovariates.html)
 
